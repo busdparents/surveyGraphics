@@ -11,4 +11,4 @@ The survey was conducted online for two weeks, via one-time-use survey invitatio
 
 MEDIA INQUIRIES and FULL SURVEY REPORT (PDF) requests can be made directly to sarahbowles AT gmail DOT com
 
-COMING SOON: Anonymized survey dataset and hundreds of free text data comments, released into the public domain for academic and civic/open data research.
+COMING SOON: Anonymized survey dataset (questions, answers, 800+ text comments), released into the public domain for academic and civic/open data research.
