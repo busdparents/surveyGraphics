@@ -1,6 +1,7 @@
 # surveyGraphics
 Publication rights granted to any and all, provided attribution is made to http://wwww.busdparents.com
 
+
 # What Do Families Want From BUSD?
 *A Berkeley Public School Family Survey*
 
@@ -11,4 +12,4 @@ The survey was conducted online for two weeks, via one-time-use survey invitatio
 
 MEDIA INQUIRIES and FULL SURVEY REPORT (PDF) requests can be made directly to sarahbowles AT gmail DOT com
 
-COMING SOON: Anonymized survey dataset (questions, answers, 800+ text comments), released into the public domain for academic and civic/open data research.
+COMING SOON: Anonymized, full survey dataset (questions, answers, 800+ text comments), released into the public domain for academic and civic/open data research. More chart graphics will be released soon.
