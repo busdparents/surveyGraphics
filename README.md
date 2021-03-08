@@ -6,6 +6,6 @@ The survey was conducted online for two weeks, via one-time-use survey invitatio
 
 808 families responded to the survey, representing 1349 students in the district. BUSD had ~8700 students in fall 2020, with a further reduction of enrollment by a few percentage points in early 2021. BUSD began the 2020/21 school year with an overall 7.5% decline in enrollment, year-on-year from the 2019/2020.
 
-Media inquiries and full survey report requests can be made directly to sarahbowles AT gmail DOT com
+MEDIA INQUIRIES and FULL SURVEY REPORT (PDF) requests can be made directly to sarahbowles AT gmail DOT com
 
-COMING SOON: Anonymous survey dataset and hundreds of free text data comments, released into the public domain for academic and civic/open data research.
+COMING SOON: Anonymized survey dataset and hundreds of free text data comments, released into the public domain for academic and civic/open data research.
